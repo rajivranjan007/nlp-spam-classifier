@@ -14,14 +14,6 @@ This project uses text classification techniques to detect spam in email/SMS con
 
 ---
 
-## 🚀 Demo
-
-🔗 **Live App**: *[Coming Soon / Add Your Streamlit URL]*  
-📸 **Screenshot**:
-![App Screenshot](./assets/screenshot.png)
-
----
-
 ## 🧠 Tech Stack
 
 - **Python**
